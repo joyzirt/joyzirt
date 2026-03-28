@@ -1,15 +1,16 @@
-## heya! I'm Joyce, but you can call me Joy!
+## heya! I'm Joyce Botelho, but you can call me Joy!
 ---
 <table>
   <tr>
     <td width="33%" valign="center">
       <img src="https://github.com/user-attachments/assets/168e6b4f-a5ff-4674-b692-0b0eb002ab90" width="100%">
     </td>
-    <td width="67%" valign="top" align="justify">
-      A Gaymer, INFJ, ONCE and you can say that am graduated in **Game Design**. Im pretty curious about stuff.. 
-      so, I love to solve problems (or create more? rkrsk). Currently, I'm diving into **Python**, as my "first" 
+    <td width="67%" valign="center" align="justify">
+      A Gaymer, INFJ, ONCE and you can say that am graduated in Game Design. Im pretty curious about stuff.. 
+      so, I love to solve problems (or create more? rkrsk). Currently, diving into Python, as my "first" 
       program language (I've got a base of C++.. but shhhh...) I'm also exploring the Linux world with 
-      **Zorin OS**, which I plan to commit about it here too! 
+      Zorin OS, which I plan to commit about it here too! 
+      Aside of tech stuff I'm into drawing and visual art. Guitar and singing are in my radar now.
   
    <br><sub><i>I think this is my lobby to farm... so, hey there, lets rock?! :)</i></sub>
       </td>
