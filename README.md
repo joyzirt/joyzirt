@@ -6,13 +6,13 @@
       <img src="https://github.com/user-attachments/assets/168e6b4f-a5ff-4674-b692-0b0eb002ab90" width="100%">
     </td>
     <td width="67%" valign="center" align="justify">
-      A Gaymer, INFJ, ONCE and you can say that am graduated in Game Design. Im pretty curious about stuff.. 
-      so, I love to solve problems (or create more? rkrsk). Currently, diving into Python, as my "first" 
+      A Gaymer, INFJ, ONCE and you can say that I'm babyGameDev. Im pretty curious about stuff.. 
+      so, I love to solve problems (or create more? while solving others rkrsk). Currently, diving into Python, as my "first" 
       program language (I've got a base of C++.. but shhhh...) I'm also exploring the Linux world with 
       Zorin OS, which I plan to commit about it here too! 
-      Aside of tech stuff I'm into drawing and visual art. Guitar and singing are in my radar now.
+      Aside of tech stuff I'm into drawing, visual art and plants. Guitar and singing are in my radar now.
   
-   <br><sub><i>I think this is my lobby to farm... so, hey there, lets rock?! :)</i></sub>
+   <br><sub><i>I think this is my lobby to farm... so, lets rock, right?! :)</i></sub>
       </td>
   </tr>
 </table>
